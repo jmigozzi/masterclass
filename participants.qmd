@@ -94,13 +94,13 @@ Raymond Marlow  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac f
 
 
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=assets/june.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/june.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-June ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
+At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.
 :::
 ::::
 
