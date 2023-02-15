@@ -3,14 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "masterclass"
+  title: "Digital Technologies in the African city"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Overview
+      - href: participants.qmd#
+        text: People
       - href: schedule.qmd
         text: Schedule
+      - href: materials.qmd
+        text: Materials
+  search: false
 
 format:
   html:

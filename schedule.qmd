@@ -1,11 +1,25 @@
 ---
-title: "Schedule"
+title: "Preliminary schedule"
 ---
 
-|     |                Morning              |          Afternoon                     |
-|:---:|:-----------------------------------:|:--------------------------------------:|
-|  L  | Intro + Data manipulation           | git / GitHub                           |
-|  M  | Generalised Linear Models           | Data visualisation                     |
-|  X  | Mixed models / GAM / Bayes          | Functional programming + Students work |
-|  J  | Multivariate analyses               | Reproducible workflows                 |
-|  V  | Using R as GIS + Students work      | Project presentations                  |
+This program is preliminary and will be finalized ahead of the masterclass to take into account the availability of guest speakers.
+
+|                 |                Morning                 |          Afternoon                        |
+|:---------------:|:--------------------------------------|:-----------------------------------------|
+|   Sunday 2nd    |   | *Participants from France and Nigeria arrive at the [Lenox Guest House](https://thelenox.co.za/).* |
+|  Monday 3rd     | 8:30-9:00 Welcome <br>9:30-10:45 Introduction <br>   11:00-12:00 Guest speaker: [Edgar Pieterse](https://www.africancentreforcities.net/people/edgar-pieterse/) (ACC)            | 1:00-2:00 Guest Speaker: [Kelle Howson](https://www.oii.ox.ac.uk/people/profiles/kelle-howson/) (Oxford-Fairwork)    <br>  2:00-4:00 Guest speaker TBC <br>  5:00-6:00  Debrief & Discussion*                  |
+|  Tuesday 4th    | 8:00-10:30 Guest speaker Ian Thompson, founder of [Toomuchwifi](https://toomuchwifi.co.za/). Venue: [Jordan's](https://www.facebook.com/JordanWaysofCooking/) in Langa. <br> 11:00-12:00 Guest speaker: [Nancy Odendaal](https://scholar.google.com/citations?user=AeAAlAoAAAAJ&hl=en) (UCT)            | 2:00-4:00 Guest speaker from Teraco. Site visit  of [CT2 data centre](https://www.teraco.co.za/data-centre-locations/cape-town/).   <br>      5:00-6:00  Debrief  & Discussion     |
+|  Wednesday 5th  | 11:00-12:00 Guest speaker: [Alicia Fortuin](https://www.africancentreforcities.net/people/alicia-fortuin/) (ACC)              | 2:00-4:00: Site visit at [La French Tech](https://www.frenchtechsa.com/). <br>    5:00-6:00  Debrief
+|  Thursday 6th   | 9:00-12:00 Designing group projects             | 1:00 Group projects   <br>    5:30-6:30  Debrief      |
+|  Friday 7th     | Group projects                   | Group projects <br>    5:00-6:00 Debrief          |                  |
+|  Saturday 8th   | Group projects          | Group projects  <br>    5:00-6:00  Debrief                       |
+|  Sunday 9th     | *Day off*             |                               |
+|  Monday 10th    |*Day off*             |                        |
+|  Tuesday 11th   | Consolidation. <br> *Venue: UCT campus*             | Consolidation    |
+|  Wednesday 12th | Consolidation                  | 2:00-4:30 Project presentations. <br> 5:00-6:00 Concluding remarks.    <br> 6:30 Closing braai at the Lenox.             |
+|  Thursday 13th  | *Participants depart*         |                  |
+
+
+*(1) Unless specified, all guest lectures will take place on the UCT campus.
+
+*(2) Unless specified, all debriefs will take place at the Lenox Guest House. Provisions have been taken to allow for UCT students to enter the premises upon presentation of their student cards.
