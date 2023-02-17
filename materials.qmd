@@ -11,7 +11,7 @@ title: "Materials"
 
 <!-- -  Guermond, V. (2022) "[Whose money? Digital remittances, mobile money and fintech in Ghana](https://www.tandfonline.com/doi/full/10.1080/17530350.2021.2018347?src=recsys), *Journal of Cultural Economy*, 15:4, 436-451. -->
 
-- Pollio A. & Cirolia, L. (2022) "[Fintech urbanism in the startup capital of Africa](https://www.tandfonline.com/doi/full/10.1080/17530350.2022.2058058)", *Journal of Cultural Economy*, 15:4, 508-523.
+<!-- - Pollio A. & Cirolia, L. (2022) "[Fintech urbanism in the startup capital of Africa](https://www.tandfonline.com/doi/full/10.1080/17530350.2022.2058058)", *Journal of Cultural Economy*, 15:4, 508-523. -->
 
 
 -  Pollio, A. (2020). [Making the silicon cape of Africa: Tales, theories and the narration of startup urbanism](https://doi.org/10.1177/0042098019884275), *Urban Studies*, 57(13), 2715--2732.
