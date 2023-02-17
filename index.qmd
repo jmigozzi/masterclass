@@ -10,15 +10,17 @@ The masterclass will gather 20 graduate students enrolled in Nigeria, France and
 
 The masterclass will take place on the UCT campus from April 3rd to April 12th 2023.
 
-### Application from UCT students
+### Application for UCT students
 
 UCT students interested in attending the masterclass can consult the [FAQ](https://jmigozzi.github.io/masterclass/FAQ.html).
 
-```{r, include=T, echo=FALSE}
+```{r, include=T, echo=FALSE, message=F}
 
 library(leaflet)
+library(tidyverse)
+
 leaflet() %>%
-   addProviderTiles(providers$CartoDB.Positron) %>% 
-   addMarkers(lng=18.459554954497122, lat=-33.95708959122071, popup="African Center for Cities, University of Cape Town") %>% 
+   addProviderTiles(providers$CartoDB.Positron) %>%
+   addMarkers(lng=18.459554954497122, lat=-33.95708959122071, popup="African Center for Cities, University of Cape Town") %>%
   addMarkers(lng=18.41420186499602, lat=-33.93407914080038, popup="The Lenox Guesthouse")
 ```

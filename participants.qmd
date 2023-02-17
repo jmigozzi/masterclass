@@ -70,7 +70,7 @@ Alicia Fortuin ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fe
 :::
 
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/daanyaal2.jpeg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 
 ::: {.column width="10%"}
@@ -78,7 +78,7 @@ Alicia Fortuin ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fe
 :::
 
 ::: {.column width="50%"}
-Daanyaal Loofer ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
+Daanyaal Loofer is a research assistant at the African Centre for Cities. His background is in Human Geography and he completed his Masters in City and Regional Planning at the University of Cape Town. Daanyaal's current work focuses on technology and smartness in cities through the compilation of a MOOC, teaching GIS mapping for Planners, and community-based mapping in Cape Town. .
 :::
 
 ::: {.column width="30%"}
@@ -93,6 +93,7 @@ Daanyaal Loofer ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac f
 Raymond Marlow ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
 :::
 :::
+
 
 ## Participants
 
