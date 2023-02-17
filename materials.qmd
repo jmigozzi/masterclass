@@ -9,7 +9,7 @@ title: "Materials"
 - Bronsvoort, I., & Uitermark, J. L. (2022). "[Seeing the street through Instagram. Digital platforms and the amplification of gentrification](https://journals.sagepub.com/doi/full/10.1177/00420980211046539)". *Urban Studies*, 59(14), 2857–2874.
 
 
--  Guermond, V. (2022) "[Whose money? Digital remittances, mobile money and fintech in Ghana](https://www.tandfonline.com/doi/full/10.1080/17530350.2021.2018347?src=recsys), *Journal of Cultural Economy*, 15:4, 436-451.
+<!-- -  Guermond, V. (2022) "[Whose money? Digital remittances, mobile money and fintech in Ghana](https://www.tandfonline.com/doi/full/10.1080/17530350.2021.2018347?src=recsys), *Journal of Cultural Economy*, 15:4, 436-451. -->
 
 - Pollio A. & Cirolia, L. (2022) "[Fintech urbanism in the startup capital of Africa](https://www.tandfonline.com/doi/full/10.1080/17530350.2022.2058058)", *Journal of Cultural Economy*, 15:4, 508-523.
 
@@ -20,7 +20,10 @@ title: "Materials"
 
 ## Watching and listening
 
--   Miller, J. [Unequal Scenes: South Africa](https://unequalscenes.com/south-africa).
+-   Miller, J. [Unequal Scenes: South Africa](https://unequalscenes.com/south-africa)
+
+- Bloomberg, 2023, "[Amazon Battles South African Tribes Over ‘Sacred’ Land](https://www.bloomberg.com/news/videos/2022-12-15/amazon-battles-south-african-tribes-over-sacred-land-video)"
+
 
 
 ## Miscellaneous

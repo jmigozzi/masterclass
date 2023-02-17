@@ -1,80 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "FAQ.html",
+    "href": "FAQ.html",
+    "title": "FAQ",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Can I apply to the masterclass?\nAny student enrolled in the MPhil in Southern Urbanism or in the Mphil Critical Urbanism are encouraged to apply. Have a look at the program!\nIf you are not enrolled to these programs, you can reach out to explain your motivation and interests.\nHow many seats are available?\nThe masterclass can host about 10 students from UCT.\nWhat is expected from me if I join?\nWe expect you to join the masterclass with lots of questions and motivations, collaborate with students coming from France and Nigeria, and participate during the entire duration of the program. Arrangements have already been made with your MPhil directors to facilitate your presence in terms of schedule.\nFunding for transport will be provided during the duration of the fieldwork. You will be also welcome to spend time with the other participants at our guest house in Gardens.\nBut Friday 7th is a public holiday?\nWe are aware of it, but to make the most of this masterclass, we expect you to participate this Friday and the following Saturday until mid-afternoon. Sunday 9th and Monday 10th remain days off."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Overview",
     "section": "",
-    "text": "Welcome to the International Masterclass on “Digital Technologies in the African city”!\nThis event is co-organised by the Department of Geography from the Ecole normale supérieure, the African Centre for Cities at the University of Cape Town, and the IFRA-Nigeria, with the financial support of the Translitterae program.\nThe masterclass will gather 20 graduate students from Nigeria, France and South Africa for 8 days of conferences, workshops and fieldwork that will explore and question how digital technologies, from data centres to smartphone apps, reshape urban economies and daily livelihoods, within and beyond Cape Town.\nThe masterclass will take place on the UCT campus from April 3rd to April 12th 2023."
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Preliminary schedule",
-    "section": "",
-    "text": "This program is preliminary and will be finalized ahead of the masterclass to take into account the availability of guest speakers.\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nSunday 2nd\n\nParticipants from France and Nigeria arrive at the Lenox Guest House.\n\n\nMonday 3rd\n8:30-9:00 Welcome 9:30-10:45 Introduction  11:00-12:00 Guest speaker: Edgar Pieterse (ACC)\n1:00-2:00 Guest Speaker: Kelle Howson (Oxford-Fairwork)  2:00-4:00 Guest speaker TBC  5:00-6:00 Debrief & Discussion*\n\n\nTuesday 4th\n8:00-10:30 Guest speaker Ian Thompson, founder of Toomuchwifi. Venue: Jordan’s in Langa.  11:00-12:00 Guest speaker: Nancy Odendaal (UCT)\n2:00-4:00 Guest speaker from Teraco. Site visit of CT2 data centre.  5:00-6:00 Debrief & Discussion\n\n\nWednesday 5th\n11:00-12:00 Guest speaker: Alicia Fortuin (ACC)\n2:00-4:00: Site visit at La French Tech.  5:00-6:00 Debrief\n\n\nThursday 6th\n9:00-12:00 Designing group projects\n1:00 Group projects  5:30-6:30 Debrief\n\n\nFriday 7th\nGroup projects\nGroup projects  5:00-6:00 Debrief\n\n\nSaturday 8th\nGroup projects\nGroup projects  5:00-6:00 Debrief\n\n\nSunday 9th\nDay off\n\n\n\nMonday 10th\nDay off\n\n\n\nTuesday 11th\nConsolidation.  Venue: UCT campus\nConsolidation\n\n\nWednesday 12th\nConsolidation\n2:00-4:30 Project presentations.  5:00-6:00 Concluding remarks.  6:30 Closing braai at the Lenox.\n\n\nThursday 13th\nParticipants depart\n\n\n\n\n*(1) Unless specified, all guest lectures will take place on the UCT campus.\n*(2) Unless specified, all debriefs will take place at the Lenox Guest House. Provisions have been taken to allow for UCT students to enter the premises upon presentation of their student cards."
-  },
-  {
-    "objectID": "participants.html#teaching-assistants",
-    "href": "participants.html#teaching-assistants",
-    "title": "People",
-    "section": "Teaching Assistants",
-    "text": "Teaching Assistants\n\n\n\n\n\n\nAlicia Fortuin ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nDaanyaal Loofer ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nRaymond Marlow ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl."
-  },
-  {
-    "objectID": "participants.html#participants",
-    "href": "participants.html#participants",
-    "title": "People",
-    "section": "Participants",
-    "text": "Participants\n\n\n\n\n\n\n\nAt the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.\n\n::::\nTo be announced soon.\n\nAcknowledgments\nThis masterclass was designed with the help and guidance of Liza Cirolia, Laura Nkula-Wenz, Andrea Pollio & Anna Selmeczi."
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "People",
-    "section": "",
-    "text": "Pauline Guinard ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nRomain Leconte ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nJulien Migozzi is an Urban Studies Foundation Postdoctoral Research Fellow at the University of Oxford. An urban and economic geographer, his research interests lie at the intersection of financial geography, urban studies and economic sociology. Julien’s current project examines how digital technologies reshape real estate markets, focusing on South Africa.\n\n\n\n\n\nFranck Ollivon ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl."
-  },
-  {
-    "objectID": "participants.html#acknowledgments",
-    "href": "participants.html#acknowledgments",
-    "title": "People",
-    "section": "Acknowledgments",
-    "text": "Acknowledgments\nThis masterclass was designed with the help and guidance of Liza Cirolia, Laura NKula-Wenz, Andrea Pollio & Anna Selmeczi."
-  },
-  {
-    "objectID": "materials.html#to-see-and-listen",
-    "href": "materials.html#to-see-and-listen",
-    "title": "Materials",
-    "section": "To see and listen",
-    "text": "To see and listen\n\nMiller, J. Unequal Scenes: South Africa"
+    "text": "Welcome to the International Masterclass on “Digital Technologies in the African city”!\nThis event is co-organised by the Department of Geography from the Ecole normale supérieure, the African Centre for Cities at the University of Cape Town, and the IFRA-Nigeria, with the financial support of the Translitterae program.\nThe masterclass will gather 20 graduate enrolled in Nigeria, France and South Africa for 8 days of conferences, workshops and fieldwork to question and research how digital technologies, from data centres to smartphone apps, reshape urban economies and daily livelihoods, within and beyond Cape Town.\nThe masterclass will take place on the UCT campus from April 3rd to April 12th 2023.\n\nApplication from UCT students\nUCT students interested in attending the masterclass can consult the FAQ and send their application to julien.migozzi[@]ouce.ox.ac.uk and laura.nkula[@]uct.ac.za."
   },
   {
     "objectID": "materials.html",
     "href": "materials.html",
     "title": "Materials",
     "section": "",
-    "text": "Anwar, M. A., & Graham, M. (2022). The Digital Continent: Placing Africa in Planetary Networks of Work. Oxford University Press. [Only prologue and Chapter 2]\nBronsvoort, I., & Uitermark, J. L. (2022). “Seeing the street through Instagram. Digital platforms and the amplification of gentrification”. Urban Studies, 59(14), 2857–2874.\nGuermond, V. (2022) “Whose money? Digital remittances, mobile money and fintech in Ghana, Journal of Cultural Economy, 15:4, 436-451.\nPollio A. & Cirolia, L. (2022) “Fintech urbanism in the startup capital of Africa”, Journal of Cultural Economy, 15:4, 508-523.\nPollio, A. (2020). Making the silicon cape of Africa: Tales, theories and the narration of startup urbanism, Urban Studies, 57(13), 2715–2732.\nRosen, J. & Alvarez León, LF. (2022) The Digital Growth Machine: Urban Change and the Ideology of Technology, Annals of the American Association of Geographers, 112:8, 2248-2265."
+    "text": "Anwar, M. A., & Graham, M. (2022). The Digital Continent: Placing Africa in Planetary Networks of Work. Oxford University Press. [Only prologue and Chapter 2]\nBronsvoort, I., & Uitermark, J. L. (2022). “Seeing the street through Instagram. Digital platforms and the amplification of gentrification”. Urban Studies, 59(14), 2857–2874.\n\n\n\nPollio A. & Cirolia, L. (2022) “Fintech urbanism in the startup capital of Africa”, Journal of Cultural Economy, 15:4, 508-523.\nPollio, A. (2020). Making the silicon cape of Africa: Tales, theories and the narration of startup urbanism, Urban Studies, 57(13), 2715–2732.\nRosen, J. & Alvarez León, LF. (2022) The Digital Growth Machine: Urban Change and the Ideology of Technology, Annals of the American Association of Geographers, 112:8, 2248-2265."
   },
   {
     "objectID": "materials.html#watching-and-listening",
     "href": "materials.html#watching-and-listening",
     "title": "Materials",
     "section": "Watching and listening",
-    "text": "Watching and listening\n\nMiller, J. Unequal Scenes: South Africa."
+    "text": "Watching and listening\n\nMiller, J. Unequal Scenes: South Africa\nBloomberg, 2023, “Amazon Battles South African Tribes Over ‘Sacred’ Land”"
   },
   {
-    "objectID": "materials.html#to-bring",
-    "href": "materials.html#to-bring",
+    "objectID": "materials.html#miscellaneous",
+    "href": "materials.html#miscellaneous",
     "title": "Materials",
-    "section": "To bring",
-    "text": "To bring\n\na small notebook and a pen;\na camera or phone to take notes and/or pictures;\nyour personal laptop, if possible;\ncomfortable shoes: we will do a fair amount of walking;\nTravel adaptors can be easily purchased at the Gardens Shopping Centre;\nWe recommend that participants purchase a local sim card with a small data plan upon their arrival at Cape Town airport, from companies such as MTN or Vodafone. They are located immediately after the gate for international arrivals, on the right. This will facilitate communication and fieldwork during the masterclass."
+    "section": "Miscellaneous",
+    "text": "Miscellaneous\n\nBring a small notebook and a pen, a camera or phone to take notes and/or pictures, your personal laptop, if possible;\nTake comfortable shoes: we will do a fair amount of walking;\nTravel adaptors can be easily purchased at the Gardens Shopping Centre next to the Guest House ;\nWe recommend that participants purchase a South African sim card with a small data plan upon their arrival at Cape Town airport, from companies such as MTN or Vodafone. Shops are located immediately at the exit of international arrivals, on the right-hand side. This will facilitate communication and fieldwork during the masterclass."
+  },
+  {
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "People",
+    "section": "",
+    "text": "Pauline Guinard ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nRomain Leconte ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nJulien Migozzi is an Urban Studies Foundation Postdoctoral Research Fellow at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien’s ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.\n\n\n\n\n\nFranck Ollivon ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl."
   },
   {
     "objectID": "participants.html#research-assistants",
@@ -84,10 +49,17 @@
     "text": "Research Assistants\n\n\n\n\n\n\nAlicia Fortuin ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nDaanyaal Loofer ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.\n\n\n\n\n\nRaymond Marlow ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl."
   },
   {
-    "objectID": "materials.html#miscellaneous",
-    "href": "materials.html#miscellaneous",
-    "title": "Materials",
-    "section": "Miscellaneous",
-    "text": "Miscellaneous\n\nBring a small notebook and a pen, a camera or phone to take notes and/or pictures, your personal laptop, if possible;\nTake comfortable shoes: we will do a fair amount of walking;\nTravel adaptors can be easily purchased at the Gardens Shopping Centre next to the Guest House ;\nWe recommend that participants purchase a South African sim card with a small data plan upon their arrival at Cape Town airport, from companies such as MTN or Vodafone. Shops are located immediately at the exit of international arrivals, on the right-hand side. This will facilitate communication and fieldwork during the masterclass."
+    "objectID": "participants.html#participants",
+    "href": "participants.html#participants",
+    "title": "People",
+    "section": "Participants",
+    "text": "Participants\nTo be announced soon.\n\n\n\n\n\n\n\nAt the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.\n\n\n\n\n\n\n\n\n\n\nLateef Aremu is a PhD scholar at the department of political science, university of Ibadan, Nigeria. His research interest are in Urban violence and politics of identity.\n\n\n\n\nAcknowledgments\nThis masterclass was designed with the help and guidance of Liza Cirolia, Laura Nkula-Wenz, Andrea Pollio & Anna Selmeczi."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "After three days of guest lectures and collective fieldwork, participants will decide to work on one of the 4 research topics proposed by the organizers. Participants will then design a collective research protocol, working in small groups for the rest of the masterclass, under the supervision of organizers and research assistants.\nPlease note that this program is preliminary and will be finalized ahead of the masterclass to take into account the availability of guest speakers.\n\n\n\n\nMorning\nAfternoon\n\n\n\n\nSunday 2nd\n\nParticipants from France and Nigeria arrive at the Lenox Guest House.\n\n\nMonday 3rd\n8:30-9:45 Introduction  10:00-10:45 Guest speaker: Edgar Pieterse (ACC)  11:00-12:30 Research methods and ethics\n2:00-3:00 Guest speaker: Kelle Howson (Oxford-Fairwork)  3:15-4:15 Guest speaker Rachel Adams (Research ICT Africa)  5:00-6:00 D&D*\n\n\nTuesday 4th\n8:00-10:30 Guest speaker Ian Thompson, founder of Toomuchwifi. Venue: Jordan’s in Langa.  11:00-12:00 Guest speaker: Nancy Odendaal (UCT)\n2:00-4:00 Guest speaker from Teraco & visit of CT2 data centre.   5:00-6:00 D & D\n\n\nWednesday 5th\n9:30-10:30 Guest speaker Antonio Bruni, founder of Picup Technologies  11:00-12:00 Guest speaker: Alicia Fortuin (ACC)\n2:00-4:00: visit of La French Tech.   5:00-5:30 D&D  6:00-6:30 Research topics\n\n\nThursday 6th\nGroup projects   12:00-13:00 HUMA Seminar. Speaker: Julien Migozzi (optional attendance)\nGroup projects   5:00-6:00 D&D\n\n\nFriday 7th\nGroup projects\nGroup projects   5:00-6:00 D&D\n\n\nSaturday 8th\nGroup projects\nGroup projects   5:00-6:00 D&D\n\n\nSunday 9th\nDay off\n\n\n\nMonday 10th\nDay off\n\n\n\nTuesday 11th\nConsolidation\nConsolidation   5:30-6:00 D&D\n\n\nWednesday 12th\nConsolidation\n2:00-4:30 Project presentations.  5:00-6:00 Concluding session.  6:30 Closing braai with SpitBraaiBoyzZa.\n\n\nThursday 13th\nParticipants depart\n\n\n\n\n\nNotes\n\n(*) Each day will conclude on a Debrief & Discussion (D&D), during which we expect participants to reflect on the day’s contents, using their notes and confronting their impressions and analysis.\nUnless specified, all guest lectures will take place on the UCT campus.\nUnless specified, all debriefs will take place at the Lenox Guest House. Provisions have been taken to allow for UCT students to enter the premises upon presentation of their student cards.\nFriday 7th is a public holiday in South Africa: the masterclass will nonetheless takes place and students are expected to participate. The following Sunday and Monday will be considered as days off."
   }
 ]

@@ -14,6 +14,8 @@ website:
         text: Schedule
       - href: materials.qmd
         text: Materials
+      - href: FAQ.qmd
+        text: FAQ
   search: false
 
 format:

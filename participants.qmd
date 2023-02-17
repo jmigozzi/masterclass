@@ -4,111 +4,130 @@ title: "People"
 
 ## Organizing Committee
 
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
 
-:::: {.columns}
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+Pauline Guinard ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
+:::
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
-:::
-::: {.column width="50%"}
-Pauline Guinard  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
 :::
 
-::: {.column width="30%"}
-![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-:::
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
 ::: {.column width="50%"}
-Romain Leconte  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
+Romain Leconte ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
 :::
 
 ::: {.column width="30%"}
 ![](assets/pic2-modified.png)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
-Julien Migozzi is an Urban Studies Foundation Postdoctoral Research Fellow at the University of Oxford. 
-An urban and economic geographer, his research interests lie at the intersection of financial geography, urban studies and economic sociology. Julien's current project examines how digital technologies reshape real estate markets, focusing on South Africa.
+Julien Migozzi is an Urban Studies Foundation Postdoctoral Research Fellow at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien's ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.
 :::
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
-Franck Ollivon  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
+Franck Ollivon ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
 :::
-
-
-::::
-
-
-
+:::
 
 ## Research Assistants
 
-:::: {.columns}
-
+::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
-:::
-::: {.column width="50%"}
-Alicia Fortuin  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
 :::
 
-::: {.column width="30%"}
-![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-:::
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
 ::: {.column width="50%"}
-Daanyaal Loofer  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
+Alicia Fortuin ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
 :::
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
-::: {.column width="50%"}
-Raymond Marlow  ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl. 
-:::
-::::
 
+::: {.column width="50%"}
+Daanyaal Loofer ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
+:::
+
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=wsrv.nl/lichtenstein.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+Raymond Marlow ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fermentum libero. Quisque a felis ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras sed blandit eros. Nulla a feugiat erat, eget sagittis nisl.
+:::
+:::
 
 ## Participants
 
+To be announced soon.
 
+<!-- one person -->
+::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/june.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
-<!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
 At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.
 :::
-::::
+:::
+<!-- one person -->
 
+<!-- one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lateef.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
 
-To be announced soon.
+::: {.column width="10%"}
+:::
 
+::: {.column width="50%"}
+Lateef Aremu is a PhD scholar at the department of political science, university of Ibadan, Nigeria. His research interest are in Urban violence and politics of identity. 
+:::
+:::
+<!-- one person -->
 
 ### Acknowledgments
-
 
 This masterclass was designed with the help and guidance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Laura Nkula-Wenz](https://www.africancentreforcities.net/people/laura-nkula-wenz/), [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
