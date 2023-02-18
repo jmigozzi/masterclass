@@ -3,7 +3,9 @@ title: "Schedule"
 ---
 
 
-After three days of guest lectures and collective fieldwork, participants will decide to work on one of the 4 research topics proposed by the organizers. Participants will then design a collective research protocol, working in small groups for the rest of the masterclass, under the supervision of organizers and research assistants.
+The first three days combine guest speakers from academia and the tech ecosystem of Cape Town with collective fieldwork. 
+
+Participants will then select one of 4 research topics proposed by the organizers, and design a collective research protocol, working in small groups for the rest of the masterclass, under the supervision of organizers and research assistants.
 
 Please note that this program is preliminary and is subject to modifications.
 
@@ -13,7 +15,7 @@ Please note that this program is preliminary and is subject to modifications.
 |   Sunday 2nd    |   | *Participants from France and Nigeria arrive at the [Lenox Guest House](https://thelenox.co.za/).* |
 |  Monday 3rd     | 8:30-9:45  Introduction <br><br>   10:00-10:45 Guest speaker: [Edgar Pieterse](https://www.africancentreforcities.net/people/edgar-pieterse/) (ACC)   <br><br> 11:00-12:30 Research methods and ethics        | 2:00-3:00 Guest speaker: [Kelle Howson](https://www.oii.ox.ac.uk/people/profiles/kelle-howson/) (Oxford-Fairwork)    <br><br>  3:15-4:15 Guest speaker [Rachel Adams](https://researchictafrica.net/author/rachel-adams/) (Research ICT Africa) <br><br>  5:00-6:00  D&D*                  |
 |  Tuesday 4th    | 8:00-10:30 Guest speaker Ian Thompson, founder of [Toomuchwifi](https://toomuchwifi.co.za/). Venue: [Jordan's](https://www.facebook.com/JordanWaysofCooking/) in Langa. <br><br> 11:00-12:00 Guest speaker: [Nancy Odendaal](https://scholar.google.com/citations?user=AeAAlAoAAAAJ&hl=en) (UCT)            | 2:00-4:00 Guest speaker from Teraco &  visit  of [CT2 data centre](https://www.teraco.co.za/data-centre-locations/cape-town/).   <br> <br><br><br>     5:00-6:00   D & D     |
-|  Wednesday 5th  | 9:30-10:30 Guest speaker Antonio Bruni, founder of [Picup Technologies](https://picup.co.za/) <br><br> 11:00-12:00 Guest speaker: [Alicia Fortuin](https://www.africancentreforcities.net/people/alicia-fortuin/) (ACC)              | 2:00-4:00: visit of [French Tech SA](https://www.frenchtechsa.com/). <br> <br><br>   5:00-5:30 D&D <br>    6:00-6:30  Research topics
+|  Wednesday 5th  | 9:30-10:30 Guest speaker Antonio Bruni, founder of [Picup Technologies](https://picup.co.za/). <br><br> 11:00-12:00 Guest speaker: [Alicia Fortuin](https://www.africancentreforcities.net/people/alicia-fortuin/) (ACC)              | 2:00-4:00: visit of [French Tech SA](https://www.frenchtechsa.com/). <br> <br><br><br>   5:00-5:30 D&D <br>    6:00-6:30 Presentation of research topics
 |  Thursday 6th   | Group projects   <br>  <br> 12:00-13:00 HUMA Seminar. Speaker: Julien Migozzi (*optional attendance*)      | Group projects   <br><br> <br><br>  5:00-6:00  D&D      |
 |  Friday 7th     | Group projects                   | Group projects <br>  <br>  5:00-6:00 D&D          |                  |
 |  Saturday 8th   | Group projects          | Group projects  <br>  <br>  5:00-6:00   D&D                       |
@@ -26,10 +28,10 @@ Please note that this program is preliminary and is subject to modifications.
 
 ### Notes
 
--  (*) Each day will conclude on a Debrief & Discussion (D&D), during which we expect participants to reflect on the day's contents, using their notes and confronting their impressions and analysis.
+-  (*) Each day will conclude on a Debrief & Discussion (D&D), during which we expect participants to reflect on the day's contents, using their notes to confront their impressions and analysis.
 
  - Unless specified, all guest lectures will take place on the UCT campus.
 
  - Unless specified, all debriefs will take place at the Lenox Guest House. Provisions have been taken to allow for UCT students to enter the premises upon presentation of their student cards.
 
-- Friday 7th is a public holiday in South Africa: the masterclass will nonetheless takes place and students are expected to participate. The following Sunday and Monday will be considered as days off.
+- Friday 7th is a public holiday in South Africa: the masterclass will nonetheless takes place on that day. The following Sunday and Monday will be considered as days off.
