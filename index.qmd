@@ -28,10 +28,10 @@ leaflet() %>%
 <br><br>
 
 <p align="center">
-  <img alt="Light" src="assets/ENS.png" width="25%">
+  <img alt="Light" src="assets/ENS.png" width="28%">
 &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="assets/ACC.jpg" width="15%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assets/IFRA.png" width="30%">
+  <img alt="Dark" src="assets/IFRA.png" width="25%">
 </p>
 
