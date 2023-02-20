@@ -103,16 +103,29 @@ To be updated soon.
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lateef2.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/tobbi.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
-
 ::: {.column width="10%"}
 :::
+::: {.column width="50%"}
+Tobi Akinde is a Graduate Student in Film Production at the University of New Orleans. With academic backgrounds Law and Digital Humanities, and a creative practice of Filmmaking, his research focuses on Digital Humanities, Post colonial media archives, Third Cinema and African Urban Spaces. His current research is on digitisation of audio-visual archives in Nigeria, and he is developing a film idea on digital mobility in Nigeria. 
+:::
+:::
+<!-- end one person -->
 
+
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lateef2.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
 ::: {.column width="50%"}
 Lateef Aremu is a PhD scholar at the department of political science, university of Ibadan, Nigeria. His research interest are in Urban violence and politics of identity. 
 :::
 :::
+<!-- end one person -->
 
 <!-- start one person -->
 ::: columns
