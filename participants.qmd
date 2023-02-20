@@ -32,6 +32,7 @@ Pauline Guinard is Associate Professor in geography at the Ecole normale supéri
 Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](https://jmigozzi.github.io/website/) at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien's ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.
 :::
 
+:::
 
 
 ## Teaching Staff
@@ -98,7 +99,7 @@ Franck Ollivon ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac fe
 
 ## Participants
 
-To be updated soon.
+*To be updated soon.*
 
 <!-- start one person -->
 ::: columns
