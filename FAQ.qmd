@@ -1,5 +1,5 @@
 ---
-title: "Application"
+title: "Application for UCT students"
 ---
 
 
@@ -10,13 +10,13 @@ title: "Application"
 
 -   **Am I eligible to the masterclass?**
 
-    The priority is given to student enrolled in the MPhil in Southern Urbanism or in the MPhil in Critical Urbanisms hosted at the African Centre for Cities.
+    The priority is given to student enrolled in the MPhil in Southern Urbanism or in the MPhil in Critical Urbanisms hosted at the African Centre for Cities at UCT.
 
     Other MPhil students enrolled at UCT can also apply. We expect them to make arrangements in their respective schedule in order to be available for the whole duration of the masterclass. To that end, we can upon request provide an official letter of participation, in case you need to justify an absence for a class. 
 
 -   **How can I apply and what is the deadline?**
 
-    Send [us](mailto:%20julien.migozzi@ouce.ox.ac.uk,%20laura.nkula@uct.ac.za,%20pauline.guinard@ens.fr) a CV and a short movitivation letter for joining the master class <ins>before the 8th of March 2023</ins>.
+    Send [us](mailto:%20julien.migozzi@ouce.ox.ac.uk,%20laura.nkula@uct.ac.za,%20pauline.guinard@ens.fr) a one page CV and a short motivation letter for joining the master class <ins>before the 8th of March 2023</ins>.
     
     Participants will be notified of their acceptance by email before the 15th of March 2023. 
 
@@ -32,4 +32,4 @@ title: "Application"
 
 -   **But Friday 7th is a public holiday?**
 
-    We are aware of it, but to make the most of this masterclass, we expect you to participate this Friday and the following Saturday until mid-afternoon. Sunday 9th and Monday 10th remain days off.
+    We are aware of this issue, but to make the most of this masterclass, we expect you to participate this Friday and the following Saturday until mid-afternoon. Sunday 9th and Monday 10th remain days off.
