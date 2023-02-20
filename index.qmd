@@ -14,7 +14,7 @@ The masterclass will take place on the UCT campus from April 3rd to April 12th 2
 
 ### Application for UCT students
 
-UCT students interested in attending the masterclass should consult the [FAQ](https://jmigozzi.github.io/masterclass/FAQ.html).
+UCT students interested in attending the masterclass should consult the [Application tab](https://jmigozzi.github.io/masterclass/FAQ.html).
 
 ```{r, include=T, echo=FALSE, message=F}
 
