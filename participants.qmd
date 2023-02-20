@@ -21,7 +21,7 @@ Pauline Guinard is Associate Professor in geography at the Ecole normale supéri
 
 
 ::: {.column width="30%"}
-![](assets/pic2-modified.png)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/pic2-modified.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 
 ::: {.column width="10%"}
