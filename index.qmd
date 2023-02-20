@@ -1,6 +1,8 @@
 ---
-title: "Overview"
+title: ""
 ---
+
+<br>
 
 Welcome to the International Masterclass on "Digital Technologies in the African city"!
 

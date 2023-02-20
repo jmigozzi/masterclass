@@ -2,13 +2,15 @@
 title: "FAQ for UCT students"
 ---
 
+-   **Are there participation fees?**
+
+    Participation is free.
+
 -   **Can I apply to the masterclass?**
 
     Any student enrolled in the MPhil in Southern Urbanism or in the MPhil in Critical Urbanisms are encouraged to apply. Have a look at the schedule!
 
     If you are not enrolled in these programs, you can reach out and explain your motivation and interests.
-
-    Participation is free.
 
 -   **How many seats are available?**
 
@@ -26,4 +28,4 @@ title: "FAQ for UCT students"
 
 -   **How can I apply?**
 
-    Write a short paragraph to introduce yourself and briefly explain your research interests and motivation for joining the master class, and send it to julien.migozzi\[\@\]ouce.ox.ac.uk and laura.nkula\[\@\]uct.ac.za.
+    Send [us](mailto: julien.migozzi@ouce.ox.ac.uk, laura.nkula@uct.ac.za, pauline.guinard@ens.fr) a short paragraph to introduce yourself and briefly explain your research interests and motivation for joining the master class.
