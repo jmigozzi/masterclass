@@ -129,6 +129,33 @@ Tobi Akinde is a Graduate Student in Film Production at the University of New Or
 :::
 <!-- end one person -->
 
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Michael Bourdon
+:::
+:::
+<!-- end one person -->
+
+
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Élisa Crestani-Befve
+:::
+:::
+<!-- end one person -->
+
 
 <!-- start one person -->
 ::: columns
@@ -148,17 +175,53 @@ Lateef Aremu is a PhD scholar at the department of political science, University
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/june.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
-
 ::: {.column width="10%"}
 :::
-
 ::: {.column width="50%"}
 At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.
 :::
 :::
 <!-- end one person -->
 
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Charlotte Monluc
+:::
+:::
+<!-- end one person -->
 
+<!-- end one person -->
+
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Laetitia Ouedraogo
+:::
+:::
+<!-- end one person -->
+
+<!-- start one person -->
+::: columns
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+::: {.column width="10%"}
+:::
+::: {.column width="50%"}
+Erell Taranne
+:::
+:::
 <!-- end one person -->
 
 <!-- start one person -->
