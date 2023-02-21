@@ -14,7 +14,7 @@ The masterclass will take place from April 3rd to April 12th 2023.
 
 ### Applying
 
-Applications for UCT students are now open. Please consult the section "[Applying](https://jmigozzi.github.io/masterclass/FAQ.html).
+Applications for UCT students are now open. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html).
 
 ```{r, include=T, echo=FALSE, message=F}
 
