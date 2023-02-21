@@ -6,11 +6,11 @@ title: ""
 
 Welcome to the International Masterclass on "Digital Technologies in the African city"!
 
-This event is organised by the Department of Geography from the [Ecole normale supérieure](https://www.ens.psl.eu/), the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, and the [IFRA-Nigeria](https://www.ifra-nigeria.org/about-us/ifra-nigeria), with the financial support of the [Translitterae program](https://www.psl.eu/en/translitterae) of PSL University.
+This event is organised by the Department of Geography from the [Ecole Normale Supérieure](https://www.ens.psl.eu/), the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, and the [IFRA-Nigeria](https://www.ifra-nigeria.org/about-us/ifra-nigeria), with the financial support of the [Translitterae program](https://www.psl.eu/en/translitterae) of PSL University.
 
 The masterclass will gather 20 graduate students enrolled in Nigeria, France and South Africa for 8 days of guest lectures, workshops and fieldwork. We will question and research how digital technologies, from data centres to smartphone apps, reshape urban economies and daily livelihoods, within and beyond the context of Cape Town, one of Africa's major tech hubs.
 
-The masterclass will take place on the UCT campus from April 3rd to April 12th 2023.
+The masterclass will take place from April 3rd to April 12th 2023. 
 
 ### Application for UCT students
 
@@ -23,8 +23,12 @@ library(tidyverse)
 
 leaflet() %>%
    addProviderTiles(providers$CartoDB.Positron) %>%
-   addMarkers(lng=18.459554954497122, lat=-33.95708959122071, popup="African Center for Cities, University of Cape Town") %>%
-  addMarkers(lng=18.41420186499602, lat=-33.93407914080038, popup="The Lenox Guesthouse")
+   addMarkers(lng=18.459554954497122, lat=-33.95708959122071, popup="African Center for Cities") %>%
+  addMarkers(lng=3.8938130963113817, lat=7.44761067002911, popup="IFRA-Nigeria")   %>%
+  addMarkers(lng=-2.3452, lat=48.8422, popup="Ecole Normale Supérieure")
+
+ 
+
 ```
 
 <br><br>
