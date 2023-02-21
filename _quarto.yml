@@ -15,7 +15,7 @@ website:
       - href: materials.qmd
         text: Materials
       - href: FAQ.qmd
-        text: Application
+        text: Applying
   search: false
 
 format:
