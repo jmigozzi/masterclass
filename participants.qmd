@@ -14,7 +14,7 @@ title: "People"
 :::
 
 ::: {.column width="50%"}
-Pauline Guinard is Associate Professor in geography at the Ecole normale supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris. 
+Pauline Guinard is Associate Professor in geography at the Ecole Normale Supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris. 
 :::
 
 
@@ -33,6 +33,20 @@ Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](htt
 :::
 
 :::
+
+
+::: {.column width="30%"}
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+:::
+
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+
+::: {.column width="50%"}
+Laura Nkula-Wenz 
+:::
+
 
 
 ## Teaching Staff
@@ -56,7 +70,7 @@ Alicia Fortuin is a PhD candidate at the African Centre for Cities and the Schoo
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-Romain Leconte 
+Romain Leconte is a Lecturer in the Deparment of Geography at the  Ecole Normale Supérieure.
 :::
 
 
@@ -80,7 +94,7 @@ Daanyaal Loofer is a research assistant at the African Centre for Cities. His ba
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-Raymond Marlow 
+Raymond Marlow is a photographer. He will work as a Research Assistant and document the masterclass.
 :::
 
 
@@ -92,7 +106,7 @@ Raymond Marlow
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-Franck Ollivon 
+Franck Ollivon is a Senior Lecturer in the Deparment of Geography at the  Ecole Normale Supérieure
 :::
 
 :::
@@ -164,6 +178,6 @@ Sikiru A. Yusuff is a historian and a member of the first cohort of the African 
 <!-- one person -->
 
 
-### Acknowledgments
+## Acknowledgments
 
-This masterclass was designed with the help and guidance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Laura Nkula-Wenz](https://www.africancentreforcities.net/people/laura-nkula-wenz/), [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
+The masterclass was designed with the guidance and assistance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
