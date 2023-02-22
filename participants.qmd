@@ -56,7 +56,7 @@ Alicia Fortuin is a PhD candidate at the African Centre for Cities and the Schoo
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-Romain Leconte is a Lecturer in the Deparment of Geography at the  Ecole Normale Supérieure.
+Romain Leconte is a Lecturer in the Deparment of Geography at the Ecole Normale Supérieure.
 :::
 
 
@@ -92,7 +92,7 @@ Raymond Marlow is a photographer. He will work as a Research Assistant and docum
 <!-- empty column to create gap -->
 :::
 ::: {.column width="50%"}
-Franck Ollivon is a Senior Lecturer in the Deparment of Geography at the  Ecole Normale Supérieure
+Franck Ollivon is a Senior Lecturer in the Deparment of Geography at the  Ecole Normale Supérieure.
 :::
 
 :::
@@ -123,7 +123,7 @@ Tobi Akinde is a Graduate Student in Film Production at the University of New Or
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Michaël Bourdon
+Michaël Bourdon is a graduate student at ENS.
 :::
 :::
 <!-- end one person -->
@@ -137,7 +137,7 @@ Michaël Bourdon
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Élisa Crestani-Befve
+Élisa Crestani-Befve is a graduate student at ENS.
 :::
 :::
 <!-- end one person -->
@@ -177,7 +177,7 @@ At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fello
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Charlotte Monluc
+Charlotte Monluc is a graduate student at ENS.
 :::
 :::
 <!-- end one person -->
@@ -192,7 +192,7 @@ Charlotte Monluc
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Laetitia Ouedraogo
+Laetitia Ouedraogo is a graduate student at ENS.
 :::
 :::
 <!-- end one person -->
@@ -205,7 +205,7 @@ Laetitia Ouedraogo
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Erell Taranne
+Erell Taranne is a graduate student at ENS.
 :::
 :::
 <!-- end one person -->
