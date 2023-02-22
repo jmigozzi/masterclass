@@ -35,20 +35,6 @@ Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](htt
 :::
 
 
-::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-:::
-
-::: {.column width="10%"}
-<!-- empty column to create gap -->
-:::
-
-::: {.column width="50%"}
-Laura Nkula-Wenz 
-:::
-
-
-
 ## Teaching Staff
 
 ::: columns
@@ -243,4 +229,4 @@ Sikiru A. Yusuff is a historian and a member of the first cohort of the African 
 
 ## Acknowledgments
 
-The masterclass was designed with the guidance and assistance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
+The masterclass was designed and organised with the precious guidance and assistance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Laura NKula-Wenz](https://www.africancentreforcities.net/people/laura-nkula-wenz/),  [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
