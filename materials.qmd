@@ -3,7 +3,7 @@ title: "Materials"
 ---
 
 <br>
-The list of references will be updated over the next couple of weeks.
+The list of references will be updated over the next couple of weeks. 
 
 
 ## Reading
@@ -20,11 +20,14 @@ We expect participants to actively read the following papers and chapters ahead 
 <!-- - Pollio A. & Cirolia, L. (2022) "[Fintech urbanism in the startup capital of Africa](https://www.tandfonline.com/doi/full/10.1080/17530350.2022.2058058)", *Journal of Cultural Economy*, 15:4, 508-523. -->
 
 
--  Pollio, A. (2020). [Making the silicon cape of Africa: Tales, theories and the narration of startup urbanism](https://doi.org/10.1177/0042098019884275), *Urban Studies*, 57(13), 2715--2732.
+-  Pollio, A. (2020). "[Making the silicon cape of Africa: Tales, theories and the narration of startup urbanism](https://doi.org/10.1177/0042098019884275)", *Urban Studies*, 57(13), 2715--2732.
 
-- Rosen, J. & Alvarez León, LF. (2022) [The Digital Growth Machine: Urban Change and the Ideology of Technology](https://www.tandfonline.com/doi/full/10.1080/24694452.2022.2052008), *Annals of the American Association of Geographers*, 112:8, 2248-2265.
+- Rosen, J. & Alvarez León, LF. (2022) "[The Digital Growth Machine: Urban Change and the Ideology of Technology](https://www.tandfonline.com/doi/full/10.1080/24694452.2022.2052008)", *Annals of the American Association of Geographers*, 112:8, 2248-2265.
 
-- Sadowski, J. (2019). [When data is capital: Datafication, accumulation, and          extraction](https://doi.org/10.1177/2053951718820549). *Big Data & Society*, 6(1). 
+- Sadowski, J. (2019). "[When data is capital: Datafication, accumulation, and          extraction](https://doi.org/10.1177/2053951718820549)". *Big Data & Society*, 6(1). 
+
+- Söderström O, Blake E. and Odendaal N. (2022) "[More-than-local, more-than-mobile: The smart city effect in South Africa](https://www.sciencedirect.com/science/article/pii/S0016718521000919)". *Geoforum*, 122: 103–117.
+
 
 *If you cannot access these references, please reach out to the organisers.*
 
