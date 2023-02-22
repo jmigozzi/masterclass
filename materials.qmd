@@ -8,7 +8,10 @@ The list of references will be updated over the next couple of weeks.
 
 ## Reading
 
-We expect participants to actively read the following papers and chapters ahead of the masterclass in order to familiarize themselves with key concepts and get inspired by the questions and topics these authors examine.
+We expect participants to actively read the following papers and chapters ahead of the masterclass in order to familiarize themselves with key concepts and get inspired by the questions and topics these authors examine. 
+
+Some of these studies are situated in African cities, some are not: this selection of references was made to create an empirical and conceptual dialogue as both theories and digital technologies travel across places.
+
 
 - Anwar, M. A., & Graham, M. (2022). *[The Digital Continent: Placing Africa in Planetary Networks of Work](https://library.oapen.org/handle/20.500.12657/52606)*. Oxford University Press. [*Only prologue and Chapter 2*]
 
