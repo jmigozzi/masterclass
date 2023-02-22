@@ -14,7 +14,7 @@ title: "People"
 :::
 
 ::: {.column width="50%"}
-Pauline Guinard is Associate Professor in geography at the Ecole Normale Supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris. 
+[Pauline Guinard](http://www.geographie.ens.fr/-pauline-guinard-.html) is Associate Professor in geography at the Ecole Normale Supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris. 
 :::
 
 
