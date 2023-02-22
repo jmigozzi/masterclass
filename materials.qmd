@@ -14,9 +14,11 @@ We expect participants to actively read the following papers and chapters ahead 
 
 - Bronsvoort, I., & Uitermark, J. L. (2022). "[Seeing the street through Instagram. Digital platforms and the amplification of gentrification](https://journals.sagepub.com/doi/full/10.1177/00420980211046539)". *Urban Studies*, 59(14), 2857–2874.
 
-- Guma, P.K. (2020). "[Incompleteness of urban infrastructures in transition: Scenarios from the mobile age in Nairobi](https://journals.sagepub.com/doi/pdf/10.1177/0306312720927088). *Social Studies of Science*, 50(5), pp.728-750.
+- Guma, P.K. (2022) "[Nairobi’s Rise as a Digital Platform Hub](https://doi.org/10.1525/curh.2022.121.835.184)". *Current History*, 121 (835): 184–189
 
-- Guma P.K. &  Wiig, A. (2022) "[Smartness Beyond the Network: Water ATMs and Disruptions from below in Mathare Valley, Nairobi](https://www.tandfonline.com/doi/full/10.1080/10630732.2022.2037180)", *Journal of Urban Technology*, 29:4, 41-61.
+<!-- - Guma, P.K. (2020). "[Incompleteness of urban infrastructures in transition: Scenarios from the mobile age in Nairobi](https://journals.sagepub.com/doi/pdf/10.1177/0306312720927088). *Social Studies of Science*, 50(5), pp.728-750. -->
+
+<!-- - Guma P.K. &  Wiig, A. (2022) "[Smartness Beyond the Network: Water ATMs and Disruptions from below in Mathare Valley, Nairobi](https://www.tandfonline.com/doi/full/10.1080/10630732.2022.2037180)", *Journal of Urban Technology*, 29:4, 41-61. -->
 
 <!-- -  Guermond, V. (2022) "[Whose money? Digital remittances, mobile money and fintech in Ghana](https://www.tandfonline.com/doi/full/10.1080/17530350.2021.2018347?src=recsys), *Journal of Cultural Economy*, 15:4, 436-451. -->
 
