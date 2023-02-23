@@ -2,7 +2,7 @@
 title: "People"
 ---
 
-## Organizing Committee
+## Organizers
 
 ::: columns
 ::: {.column width="30%"}
