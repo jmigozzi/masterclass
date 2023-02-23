@@ -4,11 +4,11 @@ title: ""
 
 <br>
 
-Welcome!
+**Call for Applications**
 
 The International Masterclass on "Digital Technologies in the African city" will take place from Monday, April 3rd to Tuesday, April 12th 2023, at the University of Cape Town.
 
-The purpose of the masterclass is to bring together graduate students enrolled in Nigeria, France and South Africa, and interested in researching how digital technologies transform cities within and beyond the context of Cape Town, one of Africa's major tech hubs. 
+The purpose of the masterclass is to bring together graduate students enrolled in Nigeria, France and South Africa, and interested in researching how digital technologies transform cities within and beyond the context of Cape Town, one of Africa's major tech hubs.
 
 The instructional program involves guest lectures, collective workshops and site visits, and participant-led research projects. The panel of guest speakers includes leading voices from academia and from the local tech industry.
 
@@ -16,14 +16,11 @@ From data centres to smartphone apps, tech firms to platform workers, finance to
 
 About twenty participants will be invited, and participants are expected to fully attend and participate in the entire program.
 
-
-This event is organised by the Department of Geography from the [Ecole Normale Supérieure](https://www.ens.psl.eu/), the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, with the financial support of the [PSL Translitterae program](https://www.psl.eu/en/translitterae) and the  [French Research Institute of South Africa](http://www.ifas.org.za/research/), and the assistance of [IFRA-Nigeria](https://www.ifra-nigeria.org/).
+This event is organised by the Department of Geography from the [Ecole Normale Supérieure](https://www.ens.psl.eu/), the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, with the financial support of the [PSL Translitterae program](https://www.psl.eu/en/translitterae) and the [French Research Institute of South Africa](http://www.ifas.org.za/research/), and the assistance of [IFRA-Nigeria](https://www.ifra-nigeria.org/).
 
 The co-organizers of the masterclass are Pauline Guinard (ENS) and Julien Migozzi (Oxford University).
 
-### Call for applications
-
-Applications for UCT students are now open. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html). Application materials are due Wednesday, March 8th, 2013.
+**Applications for UCT students are now open**. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html). Application materials are due Wednesday, March 8th, 2013.
 
 ```{r, include=T, echo=FALSE, message=F}
 
@@ -42,12 +39,7 @@ leaflet() %>%
 <br><br>
 
 <p align="center">
-  <img alt="Light" src="assets/ENS.png" width="25%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assets/ACC.jpg" width="10%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assets/ifas.png" width="12%">
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="assets/trans.png" width="25%">
-</p>
 
+<img src="assets/ENS.png" alt="Light" width="25%"/>         <img src="assets/ACC.jpg" alt="Dark" width="10%"/>         <img src="assets/ifas.png" alt="Dark" width="12%"/>         <img src="assets/trans.png" alt="Dark" width="25%"/>
+
+</p>
