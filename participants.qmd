@@ -137,7 +137,7 @@ Michaël Bourdon is a graduate student at ENS.
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Elisa Crestani Befve is a graduate student at the department of Social Sciences (ENS). Her master thesis focuses on the role of the Muslim community of the Nyamirambo sector (Kigali) during the Tutsi genocide in Rwanda. Her interest in urban studies encouraged her to conduct two short inquiries during an internship at IFRA Nairobi, on the Yemeni refugee community in Eastleigh, and with women seeking to be employed in Kileleshwa
+Elisa Crestani Befve is a graduate student at the department of Social Sciences (ENS). Her master thesis focuses on the role of the Muslim community of the Nyamirambo sector (Kigali) during the Tutsi genocide in Rwanda. Her interest in urban studies encouraged her to conduct two short inquiries in Nairobi; the first with the Yemeni refugee community in Eastleigh and the second with women seeking to be employed in Kileleshwa.
 :::
 :::
 <!-- end one person -->
