@@ -85,7 +85,7 @@ Raymond Marlow is a photographer. He will work as a Research Assistant and docum
 
 
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/franck.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/franck2.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 
 :::
 ::: {.column width="10%"}
