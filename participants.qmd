@@ -187,12 +187,12 @@ Charlotte Monluc is a graduate student at ENS.
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/laeticia.jpgg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Laetitia Ouedraogo is a graduate student at ENS.
+Leaticia Ouedraogo is a graduate student at the department of Geography and Territories (ENS). She is interested in south-south academic migration from Africa as well as university and scientific cooperation as a key development factor. For her master’s thesis, she conducted field research in Accra, investigating international students urban practices and questioning the distinctive elements of their mobilities in the city.
 :::
 :::
 <!-- end one person -->
