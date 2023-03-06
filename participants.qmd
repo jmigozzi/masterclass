@@ -102,6 +102,7 @@ Franck Ollivon is an assistant professor in geography at the Ecole Normale Super
 
 *To be updated soon.*
 
+
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
@@ -172,12 +173,12 @@ At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fello
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/charlotte.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Charlotte Monluc is a graduate student at ENS.
+Charlotte Monluc is a graduate student at the department of Geography and Territories (ENS). She is interested in mobilities and in the links between real and virtual space. Her master's thesis focuses on parkour as a way of appropriating urban space in East Jerusalem.
 :::
 :::
 <!-- end one person -->
