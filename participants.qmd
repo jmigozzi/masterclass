@@ -29,7 +29,7 @@ title: "People"
 :::
 
 ::: {.column width="50%"}
-Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](https://jmigozzi.github.io/website/) at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien's ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.
+Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](https://jmigozzi.github.io) at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien's ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.
 :::
 
 :::
