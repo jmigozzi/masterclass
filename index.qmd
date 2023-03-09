@@ -20,7 +20,7 @@ This event is organised by the Department of Geography from the [Ecole Normale S
 
 The co-organizers of the masterclass are Pauline Guinard (ENS) and Julien Migozzi (Oxford University).
 
-**Applications for UCT students are now open**. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html). Application materials are due Wednesday, March 8th, 2013.
+**Applications for UCT students are open**. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html). Application materials are due Sunday, March 12th, 2023.
 
 ```{r, include=T, echo=FALSE, message=F}
 
