@@ -119,12 +119,12 @@ Tobi Akinde is a Graduate Student in Film Production at the University of New Or
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/m.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 ::: {.column width="10%"}
 :::
 ::: {.column width="50%"}
-Michaël Bourdon is a graduate student at ENS.
+Michaël Bourdon is a graduate student at the ENS, currently visiting predoctoral researcher at Oxford University. His PhD proposal lies at the intersection State anthropology, sociology of development and sociology of elites. He is particularly interested in the diffusion and pervasiveness of the start-up model in West Africa.
 :::
 :::
 <!-- end one person -->
