@@ -4,8 +4,6 @@ title: ""
 
 <br>
 
-**Call for Applications**
-
 The International Masterclass on "Digital Technologies in the African city" will take place from Monday, April 3rd to Tuesday, April 12th 2023, at the University of Cape Town.
 
 The purpose of the masterclass is to bring together graduate students enrolled in Nigeria, France and South Africa, and interested in researching how digital technologies transform cities within and beyond the context of Cape Town, one of Africa's major tech hubs.
@@ -19,8 +17,6 @@ About twenty participants will be invited, and participants are expected to full
 This event is organised by the Department of Geography from the [Ecole Normale Supérieure](https://www.ens.psl.eu/), the [African Centre for Cities](https://www.africancentreforcities.net/) at the University of Cape Town, with the financial support of the [PSL Translitterae program](https://www.psl.eu/en/translitterae) and the [French Research Institute of South Africa](http://www.ifas.org.za/research/), and the assistance of [IFRA-Nigeria](https://www.ifra-nigeria.org/).
 
 The co-organizers of the masterclass are Pauline Guinard (ENS) and Julien Migozzi (Oxford University).
-
-**Applications for UCT students are open**. Please consult the section [Applying](https://jmigozzi.github.io/masterclass/FAQ.html). Application materials are due Sunday, March 12th, 2023.
 
 ```{r, include=T, echo=FALSE, message=F}
 
