@@ -291,7 +291,7 @@ Lindelo Nzuza is a Master of Architecture graduate from the University of the Wi
 <!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/laeticia.jpgg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
+![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/laeticia.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
 ::: {.column width="10%"}
 :::
