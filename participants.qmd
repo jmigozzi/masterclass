@@ -14,11 +14,8 @@ title: "People"
 :::
 
 ::: {.column width="50%"}
-[Pauline Guinard](http://www.geographie.ens.fr/-pauline-guinard-.html) is Associate Professor in geography at the Ecole Normale Supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris. 
+[Pauline Guinard](http://www.geographie.ens.fr/-pauline-guinard-.html) is Associate Professor in geography at the Ecole Normale Supérieure (Paris, France). As an urban geographer, her work focuses on three main areas: art and public spaces (especially in South Africa), research methodologies and spatialities of emotions. Her ongoing research looks at the impact of urban transformations on inhabitants in Lagos and the Greater Paris.
 :::
-
-
-
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/pic2-modified.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
@@ -31,289 +28,317 @@ title: "People"
 ::: {.column width="50%"}
 Julien Migozzi is an [Urban Studies Foundation Postdoctoral Research Fellow](https://jmigozzi.github.io) at the University of Oxford. An urban and economic geographer, his work lie at the intersection of financial geography, urban studies and economic sociology, and combines computational analysis with in-depth fieldwork. Julien's ongoing research examines how digital technologies reshape real estate markets, focusing on South Africa.
 :::
-
 :::
-
 
 ## Teaching Staff
 
 ::: columns
-
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/Alicia.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
-Alicia Fortuin is a PhD candidate at the African Centre for Cities and the School of Architecture and Planning at UCT. Her PhD looks at access and agency for educated youth in Cape Town. Broadly her research lies at the intersection of mobility, technology and urban justice. Alicia will be a Research Assistant during the masterclass. 
+Alicia Fortuin is a PhD candidate at the African Centre for Cities and the School of Architecture and Planning at UCT. Her PhD looks at access and agency for educated youth in Cape Town. Broadly her research lies at the intersection of mobility, technology and urban justice. Alicia will be a Research Assistant during the masterclass.
 :::
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
 Romain Leconte is a Lecturer in the Deparment of Geography at the Ecole Normale Supérieure.
 :::
 
-
-
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/daanyaal2.jpeg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
-::: {.column width="50%"}
-Daanyaal Loofer is a research assistant at the African Centre for Cities. His background is in Human Geography and he completed his Masters in City and Regional Planning at the University of Cape Town. Daanyaal's current work focuses on technology and smartness in cities through the compilation of a MOOC, teaching GIS mapping for Planners, and community-based mapping in Cape Town. Daanyaal will be a Research Assistant during the masterclass. 
-:::
 
+::: {.column width="50%"}
+Daanyaal Loofer is a research assistant at the African Centre for Cities. His background is in Human Geography and he completed his Masters in City and Regional Planning at the University of Cape Town. Daanyaal's current work focuses on technology and smartness in cities through the compilation of a MOOC, teaching GIS mapping for Planners, and community-based mapping in Cape Town. Daanyaal will be a Research Assistant during the masterclass.
+:::
 
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/generic.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
 Raymond Marlow is a photographer. He will work as a Research Assistant and document the masterclass.
 :::
 
-
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/franck2.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-
 :::
+
 ::: {.column width="10%"}
 <!-- empty column to create gap -->
 :::
+
 ::: {.column width="50%"}
 Franck Ollivon is an assistant professor in geography at the Ecole Normale Superieure (Paris). His research interests revolve around probation, parole and community sentences. His past and present work seek to question the link between custodial and non-custodial forms of punishment.
 :::
-
 :::
-
 
 ## Participants
 
 
 
 <!-- start one person -->
-::: columns
-::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/tobi.JPG&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-:::
-::: {.column width="10%"}
-:::
-::: {.column width="50%"}
-Tobi Akinde is a Graduate Student in Film Production at the University of New Orleans. With academic backgrounds Law and Digital Humanities, and a creative practice of Filmmaking, his research focuses on Digital Humanities, Post colonial media archives, Third Cinema and African Urban Spaces. His current research is on digitisation of audio-visual archives in Nigeria, and he is developing a film idea on digital mobility in Nigeria. 
-:::
-:::
-<!-- end one person -->
 
-<!-- start one person -->
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/m.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 Michaël Bourdon is a graduate student at the ENS, currently visiting predoctoral researcher at Oxford University. His PhD proposal lies at the intersection State anthropology, sociology of development and sociology of elites. He is particularly interested in the diffusion and pervasiveness of the start-up model in West Africa.
 :::
 :::
+
 <!-- end one person -->
 
-
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/elisa2.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 Elisa Crestani Befve is a graduate student at the department of Social Sciences (ENS). Her master thesis focuses on the role of the Muslim community of the Nyamirambo sector (Kigali) during the Tutsi genocide in Rwanda. Her interest in urban studies encouraged her to conduct two short inquiries in Nairobi; the first with the Yemeni refugee community in Eastleigh and the second with women seeking to be employed in Kileleshwa.
 :::
 :::
+
 <!-- end one person -->
 
-
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lateef2.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Lateef Aremu is a PhD scholar at the department of political science, University of Ibadan, Nigeria. His research interests are in urban violence and politics of identity. 
+Lateef Aremu is a PhD scholar at the department of political science, University of Ibadan, Nigeria. His research interests are in urban violence and politics of identity.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/june.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 At the University of Cologne in Germany, June Gbadamosi is a Coimbra Group Fellow. She is a research fellow with IFRA and a PhD candidate at the University of Ibadan. Her research interests lie at the intersection of digital cultural identities, media, and African Studies. Her current research focuses on Nigeria and examines how digital indentures are changing cultural and digital environments.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/samuel.jpeg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Samuel Giraut is currently an intern at African Center for Cities (ACC) working on a Ph.D. proposal. Holding a Bachelor’s in Geography and a Master’s degree in Geopolitics his main research interests are public space, inequalities and securitization. He conducted two field research in Johannesburg and Marseille during his Master’s. He also learns from his experiences working in popular education as well as from his associative and political commitments.
+Samuel Giraut is currently an intern at African Center for Cities (ACC) working on a Ph.D. proposal. Holding a Bachelor's in Geography and a Master's degree in Geopolitics his main research interests are public space, inequalities and securitization. He conducted two field research in Johannesburg and Marseille during his Master's. He also learns from his experiences working in popular education as well as from his associative and political commitments.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/russel.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 Russel Hlongwane is a cultural producer from Durban. His work enquires about the effects of heritage, modernity, culture and tradition on black life. Working in the modes of artistic research, cultural production, design theory, writing, film and curatorship. He is member of working groups spread across the African continent and internationally. He has shown work extensively across Europe, Argentina, Japan, the UAE and throughout South Africa. Pronouns: he/him/his
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/julia.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Julia Hope is a postgraduate student at UCT, completing her MPhil in Southern Urbanism through the African Center for Cities. Her research has analyzed the applicability of Western radical urban theory to a global south context in the age of the climate crisis. She has engaged in PHD research around traditional leadership and service delivery in South African municipalities and her work for the Green Business College has shaped her present research interests towards questions of urban mobility and migration. 
+Julia Hope is a postgraduate student at UCT, completing her MPhil in Southern Urbanism through the African Center for Cities. Her research has analyzed the applicability of Western radical urban theory to a global south context in the age of the climate crisis. She has engaged in PHD research around traditional leadership and service delivery in South African municipalities and her work for the Green Business College has shaped her present research interests towards questions of urban mobility and migration.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lateefah.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Lateefah Joseph-Rajab is undertaking the MPhil in Southern Urbanism with the African Centre for Cities at the University of Cape Town. Her interest lies in rural-urban linkages and the development of small towns in the Western Cape. This interest has lead her to build her master’s thesis around the residents of Touwsrivier, a small town about 180km from Cape Town.   
+Lateefah Joseph-Rajab is undertaking the MPhil in Southern Urbanism with the African Centre for Cities at the University of Cape Town. Her interest lies in rural-urban linkages and the development of small towns in the Western Cape. This interest has lead her to build her master's thesis around the residents of Touwsrivier, a small town about 180km from Cape Town.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/saratu.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Saratu Mshelia is a postgraduate student and a Mastercard Foundation Scholar pursuing an M.Phil. in Urban Studies: Southern Urbanism at the African Centre for Cities and the Department of Environmental and Geographical Science (EGS), University of Cape Town. Her thesis focuses on the use of social media by Housing activists in their engagement with the State and the public on social housing delivery in Cape Town.  
+Saratu Mshelia is a postgraduate student and a Mastercard Foundation Scholar pursuing an M.Phil. in Urban Studies: Southern Urbanism at the African Centre for Cities and the Department of Environmental and Geographical Science (EGS), University of Cape Town. Her thesis focuses on the use of social media by Housing activists in their engagement with the State and the public on social housing delivery in Cape Town.
 :::
 :::
+
 <!-- end one person -->
 
-
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/charlotte.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 Charlotte Monluc is a graduate student at the department of Geography and Territories (ENS). She is interested in mobilities and in the links between real and virtual space. Her master's thesis focuses on parkour as a way of appropriating urban space in East Jerusalem.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/gathanga.png&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
 Gathanga Ndung'u is a Southern Urbanism scholar at UCT, a biotechnologist, community organizer, and human rights defender with Mathare Social Justice Centre in Nairobi. He is also a certified trainer on protection management and a writer with Kenya Organic Intellectuals Network. As a Pan-Africanist, his interests revolve around issues of ecological justice, urban farming, food sovereignty and security, and its relation to Africa's greatest resource as a continent-youths.
 :::
 :::
+
 <!-- end one person -->
 
-<!-- start one person -->
-::: columns
-::: {.column width="30%"}
-![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/siya.JPG&w=200&h=200&fit=cover&mask=circle&maxage=7d)
-:::
-::: {.column width="10%"}
-:::
-::: {.column width="50%"}
-Siya Ntuntwana has an undergraduate degree in Architecture and an honours degree in Landscape Architecture. He is currently pursuing a Master's in Urban Design. His research aims to reverse the migration of residents in peripheral cities by developing infrastructure and public spaces that align with their context with the aim to improve service delivery, quality of life, and economic opportunities. Siya is passionate about integrating design with social justice advocacy and activism to create dignified spaces.   
-:::
-:::
-<!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/lindelo.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Lindelo Nzuza is a Master of Architecture graduate from the University of the Witwatersrand, Johannesburg with more than four years of professional experience in the built environment sector. He has  worked on projects ranging from residential architecture and adaptive reuse of existing buildings to student housing and social housing. He is enrolled at the University of Cape Town for the MPhil in Conservation of the Built Environment. His research interest traverses Architecture, conservation and cultural heritage, and focuses on the significance of post-apartheid Migrant Labour Hostels.
+Lindelo Nzuza is a Master of Architecture graduate from the University of the Witwatersrand, Johannesburg with more than four years of professional experience in the built environment sector. He has worked on projects ranging from residential architecture and adaptive reuse of existing buildings to student housing and social housing. He is enrolled at the University of Cape Town for the MPhil in Conservation of the Built Environment. His research interest traverses Architecture, conservation and cultural heritage, and focuses on the significance of post-apartheid Migrant Labour Hostels.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/laeticia.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Leaticia Ouedraogo is a graduate student at the department of Geography and Territories (ENS). She is interested in south-south academic migration from Africa as well as university and scientific cooperation as a key development factor. For her master’s thesis, she conducted field research in Accra, investigating international students urban practices and questioning the distinctive elements of their mobilities in the city.
+Leaticia Ouedraogo is a graduate student at the department of Geography and Territories (ENS). She is interested in south-south academic migration from Africa as well as university and scientific cooperation as a key development factor. For her master's thesis, she conducted field research in Accra, investigating international students urban practices and questioning the distinctive elements of their mobilities in the city.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/erell.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
 :::
+
 ::: {.column width="10%"}
 :::
+
 ::: {.column width="50%"}
-Erell Taranne is a graduate student at the department of Geography and Territories (ENS). Her master’s thesis focuses on minorities online activism on Instagram social media, such as the fights against sexism, racism, ableism, LGBTQphobia, fatphobia etc. In her current research, she is questioning the link between the geographies of offline and online activism, and in particular whether Instagram makes it possible to overcome the centralization logics of offline geography.
+Erell Taranne is a graduate student at the department of Geography and Territories (ENS). Her master's thesis focuses on minorities online activism on Instagram social media, such as the fights against sexism, racism, ableism, LGBTQphobia, fatphobia etc. In her current research, she is questioning the link between the geographies of offline and online activism, and in particular whether Instagram makes it possible to overcome the centralization logics of offline geography.
 :::
 :::
+
 <!-- end one person -->
 
 <!-- start one person -->
+
 ::: columns
 ::: {.column width="30%"}
 ![](https://wsrv.nl/?url=https://raw.githubusercontent.com/jmigozzi/masterclass/master/assets/yusuff.jpg&w=200&h=200&fit=cover&mask=circle&maxage=7d)
@@ -324,12 +349,11 @@ Erell Taranne is a graduate student at the department of Geography and Territori
 
 ::: {.column width="50%"}
 Sikiru A. Yusuff is a historian and a member of the first cohort of the African Sustainable Communities Program at the Ben-Gurion University of the Negev, Israel. He graduated with a bachelor's and a master's degree in history from Obafemi Awolowo University in Nigeria. His research interests include the history of nation-building, crime, and sports for development. His study focuses on the reasons why parents and children engage in sports academies in Nigeria.
+:::
+:::
 
-:::
-:::
 <!-- one person -->
-
 
 ## Acknowledgments
 
-The masterclass was designed and organised with the precious guidance and assistance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Laura Nkula-Wenz](https://www.africancentreforcities.net/people/laura-nkula-wenz/),  [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
+The masterclass was designed and organised with the precious guidance and assistance of [Liza Cirolia](https://www.africancentreforcities.net/people/liza-cirolia/), [Laura Nkula-Wenz](https://www.africancentreforcities.net/people/laura-nkula-wenz/), [Andrea Pollio](https://www.africancentreforcities.net/people/andrea-pollio/) & [Anna Selmeczi](https://www.africancentreforcities.net/people/anna-selmeczi/).
